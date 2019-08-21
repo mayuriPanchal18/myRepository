@@ -1,7 +1,8 @@
 This is file1 to write hello..!!
 
 class myclass{
-public static void main()
-{
-sysout("hello");
-}}
+	public static void main()
+	{
+		system.out.println("hello");
+	}
+}
